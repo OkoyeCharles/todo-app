@@ -52,7 +52,7 @@ Below are the major frameworks utilized for the creation of this project.
 ## Getting Started
 
 **Instructions on how to access my project locally:** 
-- Enter this url: [https://github.com/OkoyeCharles/todo-list-app](https://github.com/OkoyeCharles/todo-list-app) in your web browser.
+- Enter this url: [https://github.com/OkoyeCharles/todo-app](https://github.com/OkoyeCharles/todo-app) in your web browser.
 - Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 - Select download Zip option from drop down menu.
 - Once the download is complete you will be able to access my project locally . 
@@ -71,7 +71,7 @@ npm install
 ```
 2. To Start a Live Server (Using React-Weback Server)
 ```sh
-cd todo-list-app
+cd todo-app
 npm install
 npm start
 ```
