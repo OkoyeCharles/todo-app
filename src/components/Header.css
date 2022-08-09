@@ -1,0 +1,19 @@
+.todo__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em 0.8em;
+}
+
+.todo__header > h1 {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.todo__header > *:nth-child(2) {
+  color: #999;
+}
+
+.todo__header > *:nth-child(2):hover {
+  color: #444;
+}

@@ -1,0 +1,8 @@
+.todo__container {
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 15%);
+  display: inline-block;
+  font-weight: 200;
+  width: clamp(17.5em, 90vw, 30em); /* stylelint-disable-line */
+}

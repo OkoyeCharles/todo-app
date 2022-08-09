@@ -1,0 +1,41 @@
+.form__todo {
+  border-top: 0.05em solid #ddd;
+  display: flex;
+}
+
+.form__todo > input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 1em 0 1em 0.8em;
+  font-size: 1em;
+  font-weight: 200;
+}
+
+.form__todo > button {
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 0.75em;
+  font-weight: 200;
+  padding: 0.5em 1em;
+  color: #999;
+  cursor: pointer;
+}
+
+/*  Italic placeholder */
+::-webkit-input-placeholder {
+  font-style: italic;
+}
+
+::-moz-placeholder {
+  font-style: italic;
+}
+
+:-moz-placeholder {
+  font-style: italic;
+}
+
+:-ms-input-placeholder {
+  font-style: italic;
+}

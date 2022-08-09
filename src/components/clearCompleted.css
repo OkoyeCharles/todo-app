@@ -1,0 +1,14 @@
+.todo__clearCompleted {
+  background: #f6f6f6;
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 1em 0.8em;
+  color: #777;
+  font-size: 1em;
+  font-weight: 200;
+}
+
+.todo__clearCompleted:active {
+  background: #eee;
+}
